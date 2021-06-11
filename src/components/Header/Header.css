@@ -1,0 +1,8 @@
+.navigation-bar {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: royalblue;
+	min-height: 10vh;
+	border: 1px solid black;
+}
